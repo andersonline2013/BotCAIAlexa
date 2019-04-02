@@ -1,0 +1,13 @@
+{
+    "exposed" : true,
+    "authentication" : [
+        {
+            "method":"Basic"
+            
+        }
+    ],
+    "cache_control" : "no-cache, no-store",
+    "cors" : {
+    "enabled" : false
+    }
+}
